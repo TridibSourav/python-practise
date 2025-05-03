@@ -1,1 +1,10 @@
-print("Hello, World!")
+val1 = int(input("large num: "))
+val2 = int(input("small num: "))
+
+print(val1 + val2)
+print(val1 - val2)
+print(val1 * val2)
+print(val1 / val2)
+print(val1 // val2)
+print(val1 % val2)
+print(val1 ** val2)

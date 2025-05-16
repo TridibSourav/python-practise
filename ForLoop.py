@@ -24,3 +24,4 @@ for NumberOnly in range (0,18,3):
         print("Else never takes conditions") 
     #because number 6 is continue step so that step will come to else statement
     print ("You Can print text as well",NumberOnly) 
+    print ("You Can print text as well",NumberOnly)

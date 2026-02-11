@@ -1,5 +1,5 @@
-val1 = int(input("large num: "))
-val2 = int(input("small num: "))
+val1 = int(input("Enter large number: "))
+val2 = int(input("Enter small number: "))
 
 print(val1 + val2)
 print(val1 - val2)
